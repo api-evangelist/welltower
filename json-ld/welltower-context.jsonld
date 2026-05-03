@@ -1,0 +1,33 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "schema": "https://schema.org/",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "wt": "https://welltower.com/vocab#",
+
+    "WelltowerProperty": "schema:Accommodation",
+    "WelltowerREIT": "schema:Corporation",
+    "WelltowerOperator": "schema:Organization",
+    "WelltowerInvestment": "schema:InvestAction",
+    "SeniorHousingFacility": "schema:CivicStructure",
+    "MedicalOfficeBuilding": "schema:MedicalClinic",
+
+    "propertyId": { "@id": "schema:identifier", "@type": "xsd:string" },
+    "propertyName": { "@id": "schema:name", "@type": "xsd:string" },
+    "propertyType": { "@id": "wt:propertyType", "@type": "xsd:string" },
+    "propertyAddress": { "@id": "schema:address", "@type": "schema:PostalAddress" },
+    "propertyCountry": { "@id": "schema:addressCountry", "@type": "xsd:string" },
+    "unitCount": { "@id": "wt:unitCount", "@type": "xsd:integer" },
+    "occupancyRate": { "@id": "wt:occupancyRate", "@type": "xsd:decimal" },
+
+    "operatorId": { "@id": "schema:identifier", "@type": "xsd:string" },
+    "operatorName": { "@id": "schema:name", "@type": "xsd:string" },
+    "operatorType": { "@id": "wt:operatorType", "@type": "xsd:string" },
+    "portfolioSize": { "@id": "wt:portfolioSize", "@type": "xsd:integer" },
+
+    "investmentValue": { "@id": "schema:price", "@type": "xsd:decimal" },
+    "capRate": { "@id": "wt:capRate", "@type": "xsd:decimal" },
+    "noi": { "@id": "wt:netOperatingIncome", "@type": "xsd:decimal" },
+    "revpar": { "@id": "wt:revpar", "@type": "xsd:decimal" }
+  }
+}

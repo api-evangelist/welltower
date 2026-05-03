@@ -1,33 +1,35 @@
-# Welltower (welltower)
-Welltower is a Fortune 500 company. This repository captures the APIs, developer tools, and machine-readable API artifacts for Welltower.
+# Welltower
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/welltower/refs/heads/main/apis.yml)
+Welltower Inc. (NYSE: WELL) is an S&P 500 healthcare REIT that invests in senior housing, post-acute care, and outpatient medical properties across the United States, United Kingdom, and Canada. Welltower is positioned at the center of the silver economy, with investments in Senior Housing Operators (SHO), Long-Term/Post-Acute Care (LTLTC), and Outpatient Medical properties. No public developer API has been identified.
 
-## Scope
+**Website:** https://welltower.com
+**Investor Relations:** https://welltower.com/investors/
 
-- **Type:** Contract
-- **Position:** Consuming
-- **Access:** 3rd-Party
+## Overview
 
-## Tags:
+Welltower's technology platform includes:
+- **Welltower Business System (WBS)** — Proprietary operational framework and technology platform
+- **Operator Portal** — Internal portal at portaldev.welltower.com for property operators
+- **AI Integration** — OpenAI-powered internal data science initiatives
+- **Digital Transformation** — Dedicated technology executives ("tech quad") driving digital transformation
 
- - Fortune 500
+Property segments: Senior Housing Operators (Independent Living, Assisted Living, Memory Care), Long-Term/Post-Acute Care, Outpatient Medical/MOBs.
 
-## Timestamps
+## Artifacts
 
-- **Created:** 2026-03-21
-- **Modified:** 2026-03-21
+### Examples
+- [Property Data Example](examples/welltower-property-example.json)
 
-## APIs
+### JSON-LD
+- [Welltower Context](json-ld/welltower-context.jsonld)
 
-No public APIs have been documented yet. Contributions welcome.
+### Vocabulary
+- [Welltower Vocabulary](vocabulary/welltower-vocabulary.yml)
 
-## Common Properties
+## Tags
 
-- [Website](https://www.welltower.com)
+Real Estate, Healthcare REIT, Senior Housing, Post-Acute Care, Investment, S&P 500, Fortune 500
 
 ## Maintainers
-
 **FN:** API Evangelist
-
 **Email:** info@apievangelist.com

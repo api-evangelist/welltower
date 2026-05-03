@@ -1,0 +1,31 @@
+{
+  "description": "Example Welltower senior housing property data",
+  "property": {
+    "propertyId": "WELL-PROP-7823",
+    "propertyName": "Sunrise Senior Living at Bethesda",
+    "propertyType": "Senior Housing Operators",
+    "segment": "Independent Living",
+    "operator": {
+      "operatorId": "OP-SUNRISE-001",
+      "operatorName": "Sunrise Senior Living",
+      "operatorType": "Management Contract"
+    },
+    "address": {
+      "street": "7700 Old Georgetown Road",
+      "city": "Bethesda",
+      "state": "MD",
+      "postalCode": "20814",
+      "country": "US",
+      "latitude": 38.9847,
+      "longitude": -77.0947
+    },
+    "totalUnits": 152,
+    "occupiedUnits": 137,
+    "occupancyRate": 0.901,
+    "revparCurrentPeriod": 4285.50,
+    "acquisitionDate": "2019-03-15",
+    "investmentBasis": 52000000.00,
+    "currency": "USD",
+    "certifications": ["Joint Commission Accredited", "CARF Accredited"]
+  }
+}

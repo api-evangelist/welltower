@@ -1,0 +1,82 @@
+vocabulary:
+  provider: Welltower
+  description: >-
+    Vocabulary for Welltower Inc. (NYSE: WELL), a healthcare REIT focused on
+    senior housing, post-acute care, and outpatient medical properties. Covers
+    real estate investment trust terminology, senior housing, healthcare
+    property types, and operational metrics.
+  tags:
+    - Real Estate
+    - Healthcare REIT
+    - Senior Housing
+    - Post-Acute Care
+    - Investment
+
+  domains:
+    - name: Property Types
+      terms:
+        - term: SHO (Senior Housing Operating)
+          definition: Senior housing properties operated under a RIDEA structure where Welltower participates in operating income.
+        - term: SSL (Senior Housing - Triple Net Leased)
+          definition: Senior housing facilities leased to operators on a triple-net basis with fixed rent payments.
+        - term: LTLTC (Long-Term/Post-Acute Care)
+          definition: Skilled nursing facilities and post-acute rehabilitation centers.
+        - term: Outpatient Medical
+          definition: Medical office buildings and outpatient clinics leased to healthcare providers.
+        - term: MOB (Medical Office Building)
+          definition: Office or clinical buildings occupied primarily by healthcare providers.
+        - term: IL (Independent Living)
+          definition: Senior housing for active older adults who do not require daily care assistance.
+        - term: AL (Assisted Living)
+          definition: Residential care for seniors requiring help with daily activities but not skilled nursing.
+        - term: Memory Care
+          definition: Specialized care facilities for individuals with dementia or Alzheimer's disease.
+        - term: CCRCs (Continuing Care Retirement Communities)
+          definition: Communities offering a continuum of care from independent living through skilled nursing.
+        - term: SNF (Skilled Nursing Facility)
+          definition: Post-acute care facility providing 24-hour nursing and rehabilitation services.
+
+    - name: Financial and Investment Metrics
+      terms:
+        - term: REIT (Real Estate Investment Trust)
+          definition: Tax-advantaged corporate structure for real estate investment required to distribute 90% of taxable income to shareholders.
+        - term: FFO (Funds From Operations)
+          definition: Non-GAAP metric measuring REIT operating performance by adding depreciation back to net income.
+        - term: Cap Rate (Capitalization Rate)
+          definition: Net operating income divided by property value, used to evaluate real estate investment return.
+        - term: NOI (Net Operating Income)
+          definition: Revenue from property operations minus operating expenses, before debt service.
+        - term: RevPAR (Revenue Per Available Room/Unit)
+          definition: Revenue per available unit measuring senior housing revenue efficiency.
+        - term: Occupancy Rate
+          definition: Percentage of available units occupied by paying residents.
+        - term: RIDEA (REIT Investment Diversification and Empowerment Act)
+          definition: 2007 legislation allowing REITs to participate in operating income of healthcare facilities through TRS structures.
+        - term: TRS (Taxable REIT Subsidiary)
+          definition: Subsidiary of a REIT that can engage in activities generating non-qualifying REIT income.
+
+    - name: Operators and Partnerships
+      terms:
+        - term: Operator
+          definition: Company that manages day-to-day operations of senior housing or care facilities under contract with Welltower.
+        - term: Management Contract
+          definition: Agreement where Welltower owns the property and an operator manages it for a fee while Welltower retains operating risk.
+        - term: Triple-Net Lease
+          definition: Lease structure where the tenant (operator) pays property taxes, insurance, and maintenance in addition to rent.
+        - term: RIDEA Structure
+          definition: Operating arrangement using a REIT-owned TRS and independent contractor to participate in property operating income.
+        - term: Sunrise Senior Living
+          definition: Major senior housing operator managing a significant portion of Welltower's SHO portfolio.
+        - term: Welltower Business System (WBS)
+          definition: Proprietary operational framework and technology platform used to drive performance improvement across Welltower's portfolio.
+
+    - name: Markets and Geography
+      terms:
+        - term: High Barrier Markets
+          definition: Urban markets with supply constraints including high land costs, zoning restrictions, and permitting challenges.
+        - term: Sun Belt
+          definition: Southeastern and Southwestern US growth markets where Welltower has increased portfolio concentration.
+        - term: Silver Economy
+          definition: Economic sector serving the aging population, which is Welltower's primary investment thesis.
+        - term: Supply Pipeline
+          definition: New senior housing construction projects that may impact occupancy and rents in existing properties.
