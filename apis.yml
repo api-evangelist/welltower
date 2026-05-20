@@ -11,6 +11,8 @@ description: >-
   developer API has been identified; Welltower primarily uses internal
   proprietary systems for property management and operator coordination.
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/welltower
   - type: Website
     url: https://welltower.com
   - type: InvestorRelations
