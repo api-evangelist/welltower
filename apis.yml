@@ -1,4 +1,6 @@
 aid: welltower
+tags:
+  - Fortune 1000
 url: https://raw.githubusercontent.com/api-evangelist/welltower/refs/heads/main/apis.yml
 modified: '2026-05-03'
 description: >-
