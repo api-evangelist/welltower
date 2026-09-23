@@ -1,7 +1,9 @@
 ---
 title: Welltower Reports Second Quarter 2025 Results
 url: https://welltower.com/investors/press-release-details?id=789
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Welltower" press release artificial intelligence'
 position: 5
 source: serpapi-google

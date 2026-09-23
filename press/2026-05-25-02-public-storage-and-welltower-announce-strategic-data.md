@@ -1,7 +1,9 @@
 ---
 title: Public Storage and Welltower Announce Strategic Data ...
 url: https://www.prnewswire.com/news-releases/public-storage-and-welltower-announce-strategic-data-science-partnership-to-advance-application-of-ai-in-real-estate-investing-302700397.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Welltower" press release artificial intelligence'
 position: 2
 source: serpapi-google

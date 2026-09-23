@@ -1,7 +1,9 @@
 ---
 title: Investors Press Releases Details | ...
 url: https://welltower.com/investors/press-release-details/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Welltower" press release artificial intelligence'
 position: 1
 source: serpapi-google
